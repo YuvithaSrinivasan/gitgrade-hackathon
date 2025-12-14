@@ -26,3 +26,13 @@ REASON :-
 
 --its not about brute force coding , it just shows how an engineer reasons would be .
 
+
+
+THE WAY OF IMPLEMENTATION :-
+
+
+
+\*\*Step-by-Step logic has been explained.
+
+\*\*Comments has been used for clarity purpose.
+
